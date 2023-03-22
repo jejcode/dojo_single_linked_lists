@@ -1,0 +1,21 @@
+values in list:
+  "Linked"
+  "Lists"
+  "are"
+  "fun"
+
+new_list = {
+    {
+        value: "Linked"
+        next: {
+            value: "Lists"
+            next: {
+                value: "are"
+                next: {
+                    value: "fun"
+                    next: None
+                }
+            }
+        }
+    }
+}
